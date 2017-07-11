@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante lo siguiente
 // conjunto de atributos. Cambie los valores de estos atributos para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("UnityContainer")]
+[assembly: AssemblyTitle("MvcUnity")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("UnityContainer")]
+[assembly: AssemblyProduct("MvcUnity")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como ID de typelib si este proyecto se expone a COM
-[assembly: Guid("fa3b899d-3dab-4374-af50-89c5a6928d7a")]
+[assembly: Guid("d1ffa5ed-4266-44fa-98b1-bc1600a08a02")]
 
 // La información de versión de un ensamblado consta de los siguientes cuatro valores:
 //
